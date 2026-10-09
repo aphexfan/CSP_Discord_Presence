@@ -105,3 +105,7 @@ Rich Presence is visible to anyone who can see your Discord profile. Turn off **
 MIT. See [LICENSE](LICENSE).
 
 *Not affiliated with or endorsed by CELSYS or Discord. Clip Studio Paint is a trademark of CELSYS, Inc.*
+
+## About this project
+
+I'm not a programmer. This tool was made with the help of Claude. It works on my setup, but I may not be able to fix complicated bugs myself. Contributions are always welcome!!! ⚞^•⩊•^⚟
