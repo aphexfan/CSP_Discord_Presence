@@ -1,0 +1,12 @@
+{
+  "client_id": "YOUR_DISCORD_APPLICATION_ID",
+  "large_image": "csp",
+  "large_text": "Clip Studio Paint",
+  "activity": "Painting",
+  "activities": ["Painting", "Editing", "Drafting"],
+  "show_file_name": true,
+  "show_extension": false,
+  "update_seconds": 15,
+  "art_folders": ["~/Documents", "~/Pictures", "~/Desktop"],
+  "recent_minutes": 120
+}

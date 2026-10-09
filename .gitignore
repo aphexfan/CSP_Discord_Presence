@@ -1,0 +1,12 @@
+# Personal settings (contains your Discord Application ID and folders)
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
