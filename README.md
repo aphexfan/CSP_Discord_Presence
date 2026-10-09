@@ -108,4 +108,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## About this project
 
-I'm not a programmer. This tool was made with the help of Claude. It works on my setup, but I may not be able to fix complicated bugs myself. Contributions are always welcome!!! ⚞^•⩊•^⚟
+I'm not a programmer. ALL CODE WRITTEN BY CLAUDE. It works on my setup, but I may not be able to fix complicated bugs myself. Contributions are always welcome!!! ⚞^•⩊•^⚟
